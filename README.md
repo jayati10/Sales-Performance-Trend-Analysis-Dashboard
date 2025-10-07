@@ -2,31 +2,31 @@
 ---
 
 ## 🧠 Key Learnings
-- Developed an end-to-end workflow: raw data → analysis → insights → dashboard.  
-- Combined **Python (EDA)** and **Tableau (Visualization)** effectively.  
-- Understood how visual storytelling supports business intelligence.  
-- Improved ability to translate data findings into actionable business insights.
+- End-to-end data workflow from raw data → insights → dashboard.  
+- Practical understanding of integrating **Python EDA** with **Tableau visualization**.  
+- Importance of storytelling through visuals for business reporting.  
+- Enhanced ability to identify performance drivers and profitability gaps.
 
 ---
 
-## 🪄 Future Enhancements
+## 🪄 Future Improvements
 - Add **sales forecasting** using ARIMA or Prophet in Python.  
-- Integrate **RFM segmentation** for customer behavior analysis.  
-- Automate **data refresh and dashboard updates**.  
+- Integrate **customer segmentation (RFM Analysis)** for retention insights.  
+- Automate data refresh for real-time reporting in Tableau.
 
 ---
+
 
 ## 🖼️ Dashboard Preview
 🔗 **View the Live Interactive Dashboard:**  
 👉 [Sales Performance Dashboard (2014–2018)](https://public.tableau.com/app/profile/jayati.gupta4196/viz/SalesPerformanceDashboard20142018/Dashboard6?publish=yes)
 
-![Tableau Dashboard Preview](<img width="1844" height="767" alt="image" src="https://github.com/user-attachments/assets/a52d8b0f-32db-43e9-b7a7-720594de96ba" />
+![Tableau Dashboard Preview](<img width="1843" height="763" alt="image" src="https://github.com/user-attachments/assets/4beba356-d4a5-435d-a269-5392115361ac" />
 )
 
 ---
 
 ## 🧩 Author
-**👩‍💻 Jayati Gupta**  
+**👩‍💻 Jayati**  
 Full Stack Developer | Data Analyst | MERN & Python Enthusiast  
-📍 *Made with Python, Tableau, and Data Love ❤️*  
-🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/jayati.gupta4196/viz/SalesPerformanceDashboard20142018/Dashboard6?publish=yes)
+📍 *Made with Python, Tableau, and Data Love ❤️*
