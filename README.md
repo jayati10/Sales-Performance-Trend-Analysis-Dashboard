@@ -130,8 +130,7 @@ Performed before visualization:
 🔗 **View the Live Interactive Dashboard:**  
 👉 [Sales Performance Dashboard (2014–2018)](https://public.tableau.com/app/profile/jayati.gupta4196/viz/SalesPerformanceDashboard20142018/Dashboard6?publish=yes)
 
-![Tableau Dashboard Preview](<img width="1841" height="756" alt="image" src="https://github.com/user-attachments/assets/da891602-e65c-4f89-9bcb-ff423f0fd872" />
-)
+
 
 ---
 
